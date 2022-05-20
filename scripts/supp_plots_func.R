@@ -1,5 +1,5 @@
 source("scripts/libraries_and_formatting.R")
-
+ 
 ## Function for Data Cleaning and Plot Generation
 supp_plots <- function(slr_scenario,
                        plot_title,

@@ -283,7 +283,7 @@ stella_plots <- function(slr_scenario,
                    base_family = "Times") +
     theme(legend.key.height = unit(2.5, 'cm'),
           legend.key.width = unit(2, 'cm'),
-          legend.position = "right")
+          legend.position = "right") 
   
   #---------------------------------------------------------------------------------------------------------------------------------------#
   ## Complete Figure
