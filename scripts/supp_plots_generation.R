@@ -1,6 +1,6 @@
 ## Load in Libraries and Plot Function
 source("scripts/supp_plots_func.R")
- 
+  
 ###
 ## Low SLR
 # Generate the Figure with the stella_plots Function

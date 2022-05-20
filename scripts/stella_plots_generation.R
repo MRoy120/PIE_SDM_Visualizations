@@ -2,7 +2,7 @@
 source("scripts/stella_plots_func.R")
 
 ###
-## Low SLR 
+## Low SLR  
 # Generate the Figure with the stella_plots Function
 low_slr_figure <- stella_plots(slr_scenario = "Low",
                                plot_title = "Low Sea Level Rise Scenarios",
