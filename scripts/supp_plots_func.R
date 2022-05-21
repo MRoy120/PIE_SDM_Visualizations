@@ -4,7 +4,7 @@ source("scripts/libraries_and_formatting.R")
 supp_plots <- function(slr_scenario,
                        plot_title,
                        min,
-                       max 
+                       max
 ) {
   
   #---------------------------------------------------------------------------------------------------------------------------------------#
